@@ -8,6 +8,8 @@ Bibliothèques nécessaires (à installer via Manage Libraries) :
 * MCCI LoRaWAN LMIC library v2.2.2
 * U8g2 v2.24.3
 
+*Note:* la bibliothèque (mininmea)[https://github.com/kosma/minmea] est inclue dans le code
+
 Connection GPS :
 * GPS_TX 23 // gps tx to uart rx
 * GPS_RX 22 // gps rx to uart tx
